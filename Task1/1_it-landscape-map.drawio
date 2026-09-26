@@ -1,0 +1,200 @@
+<mxfile host="drawio-plugin" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" modified="2026-09-08T17:25:22.415Z" version="22.1.22" etag="8UsTx47L9BvODRI7nZus" type="embed">
+  <diagram id="landscape" name="Карта IT-ландшафта">
+    <mxGraphModel dx="1689" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1019" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="Карта текущего IT-ландшафта банка «Стандарт»" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#455a64;strokeColor=#37474f;fontColor=#ffffff;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="630" y="66" width="710" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=none;strokeColor=#90a4ae;fontColor=#263238;" parent="1" vertex="1">
+          <mxGeometry x="630" y="124" width="710" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry width="710" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Организационная структура&#xa;(подразделения)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#e57373;fontColor=#ffffff;fontStyle=1;fontSize=10;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3" vertex="1">
+          <mxGeometry width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5" value="Продажа депозитов&#xa;в отделении" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#78909c;fontColor=#ffffff;fontStyle=1;fontSize=10;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3" vertex="1">
+          <mxGeometry x="230" width="160" height="60" as="geometry">
+            <mxRectangle width="160" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" value="Продажа через кол-центр" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#78909c;fontColor=#ffffff;fontStyle=1;fontSize=10;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3" vertex="1">
+          <mxGeometry x="390" width="160" height="60" as="geometry">
+            <mxRectangle width="160" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="Сайт" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#78909c;fontColor=#ffffff;fontStyle=1;fontSize=10;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="3" vertex="1">
+          <mxGeometry x="550" width="160" height="60" as="geometry">
+            <mxRectangle width="160" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry y="60" width="710" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Управление обслуживанием&lt;br&gt;в сети отделений (фронт-офис)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#f57c00;fontColor=#ffffff;fontStyle=1;fontSize=10;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12" vertex="1">
+          <mxGeometry width="230" height="110" as="geometry">
+            <mxRectangle width="230" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="Открытие депозита" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#fff3cd;fontColor=#37474f;fontSize=9;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;flipV=1;rowspan=3;colspan=1;" parent="12" vertex="1">
+          <mxGeometry x="230" width="160" height="330" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="Открытие депозита" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#fff3cd;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=9;fontColor=#37474f;rowspan=5;colspan=1;" parent="12" vertex="1">
+          <mxGeometry x="390" width="160" height="550" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="12" vertex="1">
+          <mxGeometry x="550" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="67" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2">
+          <mxGeometry y="170" width="710" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="68" value="Управление обслуживанием&lt;br style=&quot;border-color: rgb(218, 220, 224);&quot;&gt;кредитных продуктов (бэк-офис)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#f57c00;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;fontColor=#ffffff;fontStyle=1;" vertex="1" parent="67">
+          <mxGeometry width="230" height="110" as="geometry">
+            <mxRectangle width="230" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#fff3cd;fontColor=#37474f;fontSize=9;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;flipV=1;" vertex="1" visible="0" parent="67">
+          <mxGeometry x="230" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70" value="Предварительное соглосование" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0" parent="67">
+          <mxGeometry x="390" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="67">
+          <mxGeometry x="550" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2">
+          <mxGeometry y="280" width="710" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="77" value="Управление обслуживанием&lt;br style=&quot;border-color: rgb(218, 220, 224);&quot;&gt;депозитных продуктов (бэк-офис)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#f57c00;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;fontColor=#ffffff;fontStyle=1;" vertex="1" parent="76">
+          <mxGeometry width="230" height="110" as="geometry">
+            <mxRectangle width="230" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="78" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#fff3cd;fontColor=#37474f;fontSize=9;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;flipV=1;" vertex="1" visible="0" parent="76">
+          <mxGeometry x="230" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0" parent="76">
+          <mxGeometry x="390" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="76">
+          <mxGeometry x="550" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry y="390" width="710" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Кол-центр банка «Стандарт»" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#f57c00;fontColor=#ffffff;fontStyle=1;fontSize=10;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="21" vertex="1">
+          <mxGeometry width="230" height="110" as="geometry">
+            <mxRectangle width="230" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="21" vertex="1">
+          <mxGeometry x="230" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="Платформа кол-центра (подрядчик):&#xa;ведение обращения клиента&#xa;&#xa;АБС: передача заявки на депозит" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#fff3cd;fontColor=#37474f;fontSize=9;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="21" vertex="1" visible="0">
+          <mxGeometry x="390" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="21" vertex="1">
+          <mxGeometry x="550" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry y="500" width="710" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="Партнёрский кол-центр" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#f57c00;fontColor=#ffffff;fontStyle=1;fontSize=10;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="30" vertex="1">
+          <mxGeometry width="230" height="110" as="geometry">
+            <mxRectangle width="230" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="30" vertex="1">
+          <mxGeometry x="230" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;fontColor=default;fontStyle=2;fontSize=12;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="30" vertex="1" visible="0">
+          <mxGeometry x="390" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="30" vertex="1">
+          <mxGeometry x="550" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
+          <mxGeometry y="610" width="710" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="49" value="Управление IT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#f57c00;fontColor=#ffffff;fontStyle=1;fontSize=10;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="48" vertex="1">
+          <mxGeometry width="230" height="110" as="geometry">
+            <mxRectangle width="230" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="48" vertex="1">
+          <mxGeometry x="230" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="51" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="48" vertex="1">
+          <mxGeometry x="390" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52" value="Интернет-банк" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#fff3cd;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=2;colspan=1;fontSize=9;fontColor=#37474f;" parent="48" vertex="1">
+          <mxGeometry x="550" width="160" height="220" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2">
+          <mxGeometry y="720" width="710" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="86" value="Команда цифровой трансформации рознечного бизнеса" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#f57c00;fontColor=#ffffff;fontStyle=1;fontSize=10;align=center;verticalAlign=middle;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85">
+          <mxGeometry width="230" height="110" as="geometry">
+            <mxRectangle width="230" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85">
+          <mxGeometry x="230" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="88" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85">
+          <mxGeometry x="390" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0" parent="85">
+          <mxGeometry x="550" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
